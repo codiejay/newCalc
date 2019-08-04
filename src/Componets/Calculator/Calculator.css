@@ -1,0 +1,16 @@
+#key{
+    display: grid;
+    grid-template-columns: repeat(4, 23.6%);
+    grid-column-gap: 0.6em;
+    text-align: right;
+    margin: 0;
+
+
+    
+}
+
+#keys{
+    text-align: right;
+    width: 90%;
+    margin: auto;
+}
